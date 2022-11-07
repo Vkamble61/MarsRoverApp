@@ -1,8 +1,8 @@
 # MarsRoverApp
-MarsRoverApp is a consoleapp with NUnit Test project. It has two classes Rover.cs and Plateau.cs located in Models folder.
+MarsRoverApp is a C# Console App with NUnit Test project. It has two classes Rover.cs and Plateau.cs located in Models folder.
 #  Plateau.cs
-The constructor will set the Minimu X and Y coordinates
-SetPlateauGrid(int X, int Y) will set the grid with Maximun X & Y coordinates
+The constructor will set the Minimum X and Y co-ordinates.
+SetPlateauGrid(int X, int Y) will set the grid with Maximum X & Y co-ordinates.
 # Rover.cs
 This class mainly take care of Rover Movements on grid.
 Rover constructor will set by default position for rover.
